@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'aviator';
+    src: url('./AVIATOR-Bold-Italic.otf');
+  }
+
+  @font-face {
+    font-family: 'serif';
+    src: url('./PTSerif-Regular.ttf');
+  }
